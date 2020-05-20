@@ -1,0 +1,212 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Addons/S4N POC/Button Basic With Emoji 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "white",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "border": "5px solid red",
+      }
+    }
+  >
+    <button
+      className="sc-AxjAm gQcfXA"
+      onClick={[Function]}
+    >
+      <span
+        aria-label="so cool"
+        role="img"
+      >
+        😀 😎 👍 💯
+      </span>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Addons/S4N POC/Button Basic With Text 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "white",
+    }
+  }
+>
+  <button
+    className="sc-AxjAm gQcfXA"
+    onClick={[Function]}
+  >
+    Hello Button 
+  </button>
+</div>
+`;
+
+exports[`Storyshots Addons/S4N POC/Button Invalid Contrast 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "white",
+    }
+  }
+>
+  <button
+    className="sc-AxjAm sc-AxirZ bfXeLS"
+    style={
+      Object {
+        "backgroundColor": "red",
+        "color": "darkRed",
+      }
+    }
+  >
+    Hello Button 
+  </button>
+</div>
+`;
+
+exports[`Storyshots Addons/S4N POC/Button With Emoji Primary 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "white",
+    }
+  }
+>
+  <button
+    className="sc-AxjAm sc-AxirZ egRKns"
+  >
+    <span
+      aria-label="being cool"
+      role="img"
+    >
+      😀 😎 👍 💯
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Task Archived 1`] = `
+<div
+  className="list-item TASK_ARCHIVED"
+>
+  <label
+    className="checkbox"
+  >
+    <input
+      checked={true}
+      disabled={true}
+      name="checked"
+      type="checkbox"
+    />
+    <span
+      className="checkbox-custom"
+      onClick={[Function]}
+    />
+  </label>
+  <div
+    className="title"
+  >
+    <input
+      placeholder="Input title"
+      readOnly={true}
+      type="text"
+      value="Test Task"
+    />
+  </div>
+  <div
+    className="actions"
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`Storyshots Task Default 1`] = `
+<div
+  className="list-item TASK_INBOX"
+>
+  <label
+    className="checkbox"
+  >
+    <input
+      checked={false}
+      disabled={true}
+      name="checked"
+      type="checkbox"
+    />
+    <span
+      className="checkbox-custom"
+      onClick={[Function]}
+    />
+  </label>
+  <div
+    className="title"
+  >
+    <input
+      placeholder="Input title"
+      readOnly={true}
+      type="text"
+      value="Test Task"
+    />
+  </div>
+  <div
+    className="actions"
+    onClick={[Function]}
+  >
+    <a
+      onClick={[Function]}
+    >
+      <span
+        className="icon-star"
+      />
+    </a>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Task Pinned 1`] = `
+<div
+  className="list-item TASK_PINNED"
+>
+  <label
+    className="checkbox"
+  >
+    <input
+      checked={true}
+      disabled={true}
+      name="checked"
+      type="checkbox"
+    />
+    <span
+      className="checkbox-custom"
+      onClick={[Function]}
+    />
+  </label>
+  <div
+    className="title"
+  >
+    <input
+      placeholder="Input title"
+      readOnly={true}
+      type="text"
+      value="Test Task"
+    />
+  </div>
+  <div
+    className="actions"
+    onClick={[Function]}
+  >
+    <a
+      onClick={[Function]}
+    >
+      <span
+        className="icon-star"
+      />
+    </a>
+  </div>
+</div>
+`;
