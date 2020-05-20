@@ -27,7 +27,7 @@ export const BasicWithEmoji = () => (
   </HButton>
 );
 
-export const InvalidContrast = () => <HRoundedButton style={{ backgroundColor: 'red', color: 'darkRed', }} >Hello Button </HRoundedButton>;
+export const InvalidContrast = () => <HRoundedButton style={{ backgroundColor: 'blue', color: 'darkRed', }} >Hello Button </HRoundedButton>;
 
 export const withEmojiPrimary = () => (
   <HRoundedButton primary>
