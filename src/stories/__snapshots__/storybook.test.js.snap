@@ -59,7 +59,7 @@ exports[`Storyshots Addons/S4N POC/Button Invalid Contrast 1`] = `
     className="sc-AxjAm sc-AxirZ bfXeLS"
     style={
       Object {
-        "backgroundColor": "red",
+        "backgroundColor": "blue",
         "color": "darkRed",
       }
     }
