@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "styled-components": "^5.1.0"
   },
   "scripts": {
@@ -49,9 +49,9 @@
     "@storybook/react": "^5.3.18",
     "@storybook/theming": "^5.3.18",
     "babel-loader": "^8.1.0",
-    "chromatic": "^4.0.3",
+    "chromatic": "^13.3.4",
     "i": "^0.3.6",
-    "npm": "^6.14.5",
+    "npm": "^11.7.0",
     "react-test-renderer": "^16.13.1"
   }
 }
